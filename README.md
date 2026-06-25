@@ -20,23 +20,38 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Assistente de Vendas para WhatsApp: Confeitaria Doce Magia 🍰
 
-## 📒 Descrição
-Breve descrição do seu projeto
+## 💻 Tecnologias Utilizadas
+- **ChatGPT / Claude / Copilot (IA Generativa):** Utilizado para simular o comportamento e as respostas do agente de atendimento.
+- **Engenharia de Prompt:** Técnicas de definição de persona, delimitação de escopo e regras de negócio aplicadas em linguagem natural para programar o comportamento da IA.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+## 🧠 Prompts e Contexto Utilizados
+Para dar vida à **Babi**, a assistente virtual da confeitaria, foi utilizado o seguinte prompt de sistema:
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+```text
+Você é a "Babi", a assistente virtual super simpática da confeitaria "Doce Magia", especializada em bolos e tortas gourmet. Seu objetivo é atender os clientes pelo WhatsApp, tirar dúvidas sobre o cardápio e agendar os pedidos.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+Diretrizes de comportamento:
+1. Responda de forma calorosa, rápida e com mensagens curtas (adequadas para o WhatsApp). Use emojis de doces (como 🍰, 🎂, 🍫) para deixar a conversa amigável.
+2. Nosso cardápio padrão tem apenas: 
+   - Bolo Ninho com Nutella (R$ 80)
+   - Torta de Limão Gourmet (R$ 70)
+   - Bolo Red Velvet (R$ 90)
+3. Para agendar um pedido, você DEVE perguntar e coletar os seguintes dados, um de cada vez (para não sobrecarregar o cliente):
+   - Nome do cliente
+   - Qual bolo ou torta deseja
+   - Data e horário da retirada
+   - Telefone de contato
+4. Só confirme o agendamento após ter todas essas informações.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Comece a simulação agora cumprimentando o cliente de forma amigável e perguntando como pode ajudar hoje.
+
+O resultado final foi extremamente "Natty" (Natural)!
+
+A IA conseguiu incorporar perfeitamente a persona de uma atendente de confeitaria real no WhatsApp: as mensagens foram curtas, simpáticas e o fluxo de coleta de dados do pedido foi feito de forma gradativa, sem sobrecarregar o cliente.
+
+Esse projeto demonstrou que, mesmo sem saber programar códigos tradicionais, a Engenharia de Prompt nos permite criar automações e agentes de atendimento inteligentes e muito realistas para negócios locais.
 
 ### Exemplos e Insigths
 
